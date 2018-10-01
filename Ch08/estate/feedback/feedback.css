@@ -1,0 +1,12 @@
+/*FEEDBACK.CSS*/
+/*reset browsers for cross-client consistency*/
+body,h2,h3,p {margin:0; padding:0 }
+body {text-align:center; background-color:#D7FFEB; color:black; É
+font-family: "times new roman"; max-width:100%; min-width:960px;
+font-size: medium; color: #000000; margin: auto; width:95%;}
+#back-button { margin:20px auto 0 auto; text-align:center; width:200px; height:25px; É
+padding:5px; background-color:brown; color:white; font-size:110%; font-weight:bold; }
+#back-button a { text-decoration:none; color:white; }
+#back-button a:hover { color:red; }
+h2 { margin-top:15px; margin-bottom:10px; font-size:130%; font-weight:bold;}
+h3 { font-size:110%; font-weight:bold; text-align:center;}

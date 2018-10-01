@@ -1,0 +1,10 @@
+/*PRINT.CSS: style amendments for printing only*/
+/*SELECT ITEMS THAT YOU DO NOT WANT TO PRINT, e.g., 
+header, menu, print-this-page button, and footer*/
+#header, #nav, #leftcol, #button, #rightcol, #footer, 
+#info-col, ul { display:none; }
+input { border:1px black solid; }
+h2 { font-size:16pt; color:black; text-align:center; }
+h3 { text-align:center; font-size:11pt;}
+/*REVEAL OUTGOING URL links on printed page*/
+a[href^="http://":after {content: "(" attr(href)")"; }

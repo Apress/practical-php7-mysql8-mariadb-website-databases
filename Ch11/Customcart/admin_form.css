@@ -1,0 +1,9 @@
+﻿label { width:330px; float:left; text-align:right; }
+select { width:200px; float:left; text-align:right; }
+#submit { width:65px; margin-left:330px; margin-top:-10px; }
+#content h2 { margin-left:-80px; top: 0px; width: 300px; }
+input { margin-bottom:5px; }
+#content h3 { text-align:center; width: 350px; margin-left:240px; }
+html { height:100%; }
+body { background:linear-gradient(green, #9ff781); height:100%;
+}

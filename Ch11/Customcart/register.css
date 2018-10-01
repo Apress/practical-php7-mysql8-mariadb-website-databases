@@ -1,0 +1,5 @@
+﻿#midcol h2 { margin-left:-15px; }
+#midcol h3 {margin-left:240px;;}
+form { 	margin-left:150px; }
+input {	margin-bottom:5px;}
+p.error { color:red; font-size:105%; font-weight:bold; text-align:center;}

@@ -1,0 +1,69 @@
+﻿body {text-align:center; background-color:#D7FFEB; color:navy; font-family: "times new roman"; 
+font-size: 100%; color: navy; margin: auto; 
+}
+h2 { font-size:150%; color:navy; text-align:center;
+}
+h3 { font-size:110%; color:navy; text-align:center;
+}
+#container {position:relative; min-width:960px; max-width:1200px; margin:auto; text-align:left;	
+}
+header, #header-members, #header-admin { margin:10 px auto 0 auto; min-width:960px; max-width:1200px; height:175px; background-image: url('images/tile-pale.jpg'); 
+background-repeat: repeat; padding:0; color:white;	
+}
+h1 {position:relative; top:40px; font-size:350%; color:white; margin:auto 0 auto 20px; 	width: 600px;
+}
+#info-col p {
+	text-align:center;
+}
+ul { position:absolute; top:160px; left:-40px; color:navy; width:135px; text-align:center; margin:0;
+}
+nav ul { position:absolute; top:185px; left:-30px; color:navy; width:135px; text-align:center; margin:0;
+}
+/* set general side button styles */
+li { width:115px; list-style-type :none; margin-bottom: 3px; text-align: center;
+}
+/* set general anchor styles */
+li a { display: block; width:115px; color: white; font-weight: bold; text-decoration: none
+}
+/* specify state styles. */
+/* mouseout (default) */
+li a { background: #5B78BE; border: 4px outset #aabaff;
+}
+/* mouseover */
+li a:hover { display:block; background: #0a4adf; border: 4px outset #8abaff; width:115px;
+}
+/* onmousedown */
+li a:active { background:#aecbff; border: 4px inset #aecbff;
+}
+#reg-navigation ul { float:right;
+	font-size:medium; width:160px; margin:-150px 15px 0 88%;
+}
+aside {
+	float:right; width:150px;
+}
+#midcol {width:90%; margin:auto;}
+#mid-left-col { width:48%; float:left; text-align:left;
+}
+#mid-right-col {width:48%; float:right; text-align:left;
+}
+#content { 	margin-left:150px; margin-right:150px;
+}
+table { width:700px; border:1px navy solid; border-collapse:collapse; margin:auto;
+}
+th, td { border:1px navy solid; padding:1px 0 1px 4px; text-align:left;
+}
+/*td { border:1px navy solid; padding:1px 0 1px 4px; text-align:left;
+}*/
+form { margin-left:180px;
+}
+footer { margin:auto; text-align:center; clear:both;
+}
+p.error { color:red; font-size:105%; font-weight:bold; text-align:center;
+}
+.label { float:left; width:210px; text-align:right; clear:left; margin-right:5px;
+}
+#submit { margin-left:215px; text-align:center;
+}
+span.left {
+	text-align:left;
+}  

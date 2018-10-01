@@ -1,0 +1,53 @@
+<!doctyp html>
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+      <style type="text/css">
+body { padding-top:0px; }
+</style>
+
+
+    </head>
+    <body>
+
+        <header>
+                <nav class="navbar navbar-inverse" role="navigation">
+                    <div class="container">
+
+                        <!-- The button that shows when the width is too short -->
+                        <div class="navbar-header">                            
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+
+                            <a class="navbar-brand" ><span class="subhead"></span>Project 1</a>
+                        </div>                   
+                            <!-- The navigation menu. It collapses when the width is too short -->
+                            <div id="collapse" class="collapse navbar-collapse">
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a href="#browse">browse</a></li>
+                                    <li><a href="#why">why</a></li>
+                                    <li><a href="#about">about</a></li>                                    
+                                </ul>
+                            </div>
+                    </div>
+                </nav>
+
+        </header>
+
+
+        <section>
+            <h3>Project 1 incomplete</h3>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+        </section>
+
+    </body>
+
+
+</html>

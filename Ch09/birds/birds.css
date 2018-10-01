@@ -1,0 +1,15 @@
+﻿
+body {text-align:center; background-color:#CCFF99; color:green; 
+font-family: "times new roman";
+font-size: 120%; margin: auto; }
+#container {margin:auto; border:5px black solid; }
+
+header {color:white; background-color:#CCFF99;}	
+}
+label { color: black; }
+#submit {margin: 0px; background:#559a55; border: 5px outset #559a55; width: 140px;}
+#includemenu {padding-top: 10px; padding-bottom: 10px; padding-right: 0px;}
+#includefooter {background:#68CE53; padding-top: 5px; padding-bottom: 5px; margin: 0px;}
+#includeheader { height:auto; background:#95b522; margin-bottom: 0px; padding:0px; background:url('images/header3.jpg'); background-repeat:no-repeat;}
+#contents {background-color:transparent ;margin-top: -7px; color: black; margin: 0px; padding: 0px;}
+#buttons {background:#559a55; border: 5px outset #559a55;}

@@ -1,0 +1,20 @@
+﻿body { background:linear-gradient(green, #9ff781); font-family:arial; font-size: 100%;
+}
+html { min-height: 100% }
+#includeheader {border:10px white solid;}
+}
+#container {
+	margin:auto;
+}
+h2 { margin-top: 20px; }
+label { color: black; }
+#submit {margin: 0px; background:#559a55; border: 5px outset #559a55; width: 140px;}
+#includemenu {padding-top: 10px; padding-bottom: 10px; padding-right: 0px; }
+#includefooter {background:#68CE53; padding-top: 5px; padding-bottom: 5px; margin: 0px;}
+#includeheader {width:90%; background:url(images/header3.jpg); background-repeat:no-repeat; margin-bottom: 0px; padding:40px; padding-bottom: 0px; color: white;}
+#contents {background-color:transparent ;margin-top: -135px; border:10px white solid; color: white; width: 90%; }
+#rosette1 { position:relative; left:750px; top:-95px; }
+#rosette { position:relative; left:850px; top:-95px; }
+#buttons {background:#559a55; border: 5px outset #559a55;}
+
+

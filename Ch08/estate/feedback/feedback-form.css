@@ -1,0 +1,8 @@
+#sb, form{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+body {margin:0; padding:0; }
+.cntr { text-align:center; }

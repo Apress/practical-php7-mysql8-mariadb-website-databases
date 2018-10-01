@@ -1,0 +1,13 @@
+﻿#header-button {
+	position:absolute; top:10px;
+}
+#content h2 { margin-left:-220px; width:550px; }
+#content h2.main_title { margin-left:-20px; width:250px; }
+ul { margin-top:0; }
+ul li { height:30px; }
+p { margin-bottom:-5px; width:600px; }
+form { 	margin-left:180px; }
+#submit {margin-top:0; margin-left:215px; }
+.cntr {	text-align:center;}
+p.error { color:red; font-size:105%; font-weight:bold; text-align:center;}
+footer { margin-left:150px; }

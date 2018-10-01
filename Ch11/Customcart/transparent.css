@@ -1,0 +1,64 @@
+﻿/*equalise all the margins, paddings and borders built into various browsers
+div body #header #content { margin:0; padding:0; border:0; 
+}*/
+body { background:#68CE53; font-family:arial; font-size: 100%;
+}
+/*add display attributes for the semantic tags*/
+/*header, footer, section, article, nav { display:block; 
+}*/
+header {border:10px white solid;
+background:#95b522;
+}
+#logo { position:absolute; left:10px; top:5px;}
+#container {
+	margin:auto;
+}
+#content { background-color:transparent; border:10px white solid; color: white; 
+}
+#rightcol { width: 135px; float:right; height: 200px; margin-right:10px;
+}
+#midcol { margin-left:15px; margin-right:145px; margin-top:10px; vertical-align:top;
+}
+#midcol h2 { position:relative; left:325px;
+	
+}
+#mid-left-col { float:left;
+	width:47%;
+}
+#mid-right-col {float:right;
+	width:47%;
+}
+/* set side menu block position and width*/
+
+nav li a:hover, #header-button li a:hover {  background: red;  color:white; border: 5px outset red;
+}
+/*mouse active*/
+nav li a:active { background:maroon;  border: 5px inset maroon; 
+}
+/*#ftr {
+	margin:auto; text-align:center;
+}*/
+br.clear { clear:both; 
+}
+#midcol img { margin-left:10px; 
+}
+footer { clear:both; color:black; text-align:center; margin:auto;
+}
+table tr td {
+	background-color:#FFFFFF; text-align:center; border: 1px black solid; border-collapse:collapse;
+}
+.label { float:left; width:210px; text-align:right; clear:left; margin-right:5px;
+}
+#submit { margin-left:215px; text-align:center;
+}
+
+#loginfields { display:block; margin-left:50px;
+}
+#loginfields input { float:left; margin-bottom:5px;
+}
+#loginfields label { margin-bottom:5px; font-weight:bold;
+}
+#loginfields span { float:left;
+}
+#loginfields submit { margin:5px auto 5px auto;
+}
